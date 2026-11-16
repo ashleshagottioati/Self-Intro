@@ -12,4 +12,4 @@ Python developer building data and AI projects. Looking for entry-level AI/ML En
 Python • Pandas • NumPy • SQL • JavaScript • Power BI • Generative AI/LLMs
 
 ## Contact
-[LinkedIn](https://linkedin.com/in/ashlesha-gottipati-3b423a1b6) • [Email](ashleshagprofessional
+[LinkedIn](https://linkedin.com/in/ashlesha-gottipati-3b423a1b6) • 
